@@ -9,6 +9,7 @@ My usefull links, articles, snippets, etc.
 4. [Bundler](#bundler)
 5. [Server](#server)
 6. [Misc](#misc)
+7. [Shortcuts](#shortcuts)
 
 
 
@@ -59,3 +60,6 @@ My usefull links, articles, snippets, etc.
 - [Map](https://snazzymaps.com)
 - [Easing Gradients](https://larsenwork.com/easing-gradients/)
 - [The UX Playbook](https://uxplaybook.hanno.co/research/qualitative-research/user-testing.html)
+
+### Shortcuts
+- [shortcuts] http://shortcuts.design/toolspage-adobeillustrator.html
